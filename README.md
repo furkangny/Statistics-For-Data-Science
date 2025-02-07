@@ -1,4 +1,4 @@
-#📊 Statistics-For-Data-Science
+# 📊 Statistics-For-Data-Science
 
 Bu repo, veri bilimi için temel istatistik konularını ve Jupyter Notebook notlarını içermektedir. 🚀
 
